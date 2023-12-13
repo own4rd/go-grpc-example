@@ -1,4 +1,4 @@
-## Documentação da API
+## GO gRPC - Example
 - For study purposes only.
 #### Dependencies
 
